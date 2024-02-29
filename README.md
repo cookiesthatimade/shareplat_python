@@ -1,8 +1,10 @@
-
-# sharePlat python version
+# shareplat python ver.
 ### sharePlat_py는 React로 만들어진 sharePlat([원본](https://gitlab.com/sunnyfactory2/shareplat))을 Flask를 사용하여 재구성하였습니다.
 
-<br>
+### SKILLS 🚀 
+
+![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ### Installation 📦
 
