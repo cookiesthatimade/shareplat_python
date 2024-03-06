@@ -40,7 +40,7 @@
   cd/app
   python3 main.py 
 ```
-## 5-1. 서버 실행 ->  Go to www.shareplat.com
+## 5-1. 서버 실행 ->  Go to www.shareplat.net
 flask 백그라운드 실행 커맨드
 ```
   sudo nohup python3 main.py &
